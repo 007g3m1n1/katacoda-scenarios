@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Gem-k8s",
+  "description": "Kubernetes v1.18",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
